@@ -3,7 +3,7 @@ package lexer
 import (
 	"strings"
 
-	"github.com/svenrisse/go-monkey/token"
+	"github.com/svenrisse/go-monkey/internal/token"
 )
 
 type Lexer struct {
